@@ -41,4 +41,4 @@ POST /favorites/toggle: Tilføj eller fjern en artist som favorit.
 GET /favorites: Hent alle favoritartists.
 Datakilde:
 
-Kunstneroplysningerne er gemt i data.json. Du kan redigere denne fil for at tilføje eller ændre kunstnere.
+oplysningerne er gemt i data.json
