@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Justin Drew Bieber",
+    "birthdate": "1. March 1994",
+    "activeSince": "2007 - present",
+    "genres": "Pop, Hiphop/rap",
+    "labels": "Island, Teen Island, RBGM, School Boy, Def Jam, Universal",
+    "website": "https://www.justinbiebermusic.com/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Justin_Bieber_in_2015.jpg",
+    "shortDescription": "Justin Drew Bieber is a Canadian singer. Bieber got discovered by American record executive Scooter Braun in 2008."
+  },
+  {
+    "id": 2,
+    "name": "Eminem",
+    "birthdate": "17. October 1972",
+    "activeSince": "1988 - present",
+    "genres": "Hiphop/rap",
+    "labels": "Shady, Aftermath, Interscope, Eb",
+    "website": "https://www.eminem.com/",
+    "image": "https://gaffa.blob.core.windows.net/gaffa-media/media/2145ff93-96a1-4a41-839f-5d40c4c11942/EminemTilDanmark-default.webp",
+    "shortDescription": "Marshall Bruce Mathers III who is knows as Eminem is an American rapper, record producer and actor"
+  },
+  {
+    "id": 3,
+    "name": "Gilli",
+    "birthdate": "27. June 1992",
+    "activeSince": "2010 - present",
+    "genres": "Pop, Hiphop",
+    "labels": "disco:was, Sony Music",
+    "website": "https://www.kiko.nu/",
+    "image": "https://sang-tekst.dk/wp-content/uploads/2021/02/Gill-360x360.png",
+    "shortDescription": "Kian Rosenberg Larsson, known as Gilli, is a danish singer/rapper"
+  },
+  {
+    "id": 4,
+    "name": "Selena Gomez",
+    "birthdate": "22. July 1992",
+    "activeSince": "2002 - present",
+    "genres": "Pop, dance-pop, electropop",
+    "labels": "Walt Disney, Hollywood, Interscope",
+    "website": "https://www.selenagomez.com/#/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Selena_Gomez_-_Walmart_Soundcheck_Concert.jpg/640px-Selena_Gomez_-_Walmart_Soundcheck_Concert.jpg",
+    "shortDescription": "Selena Marie Gomez is an American singer, actress and producer"
+  }
+]

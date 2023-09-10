@@ -1,0 +1,15 @@
+{
+  "name": "artist-frontend",
+  "version": "1.0.0",
+  "description": "List of artist",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Omar Naifeh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

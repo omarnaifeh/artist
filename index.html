@@ -1,0 +1,58 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="app.css" />
+    <title>Music Artists</title>
+  </head>
+  <body>
+    <h1>Music Artists</h1>
+
+    <!-- Form to create a new artist -->
+    <div class="form-container">
+      <h2>Create New Artist</h2>
+      <form id="artistForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" required />
+        <label for="birthdate">Birthdate:</label>
+        <input type="text" id="birthdate" />
+        <!-- Add more input fields for other artist properties -->
+        <button type="submit">Create</button>
+      </form>
+    </div>
+
+    <!-- Filter and sort options -->
+    <div class="filter-container">
+      <h2>Filter & Sort</h2>
+      <label for="genreFilter">Filter by Genre:</label>
+      <select id="genreFilter">
+        <option value="">All</option>
+        <!-- Add genre options dynamically based on available genres -->
+      </select>
+      <button id="applyFilter">Apply Filter</button>
+      <label for="sortSelect">Sort by:</label>
+      <select id="sortSelect">
+        <option value="name">Name</option>
+        <option value="activeSince">Active Since</option>
+        <!-- Add more sorting options as needed -->
+      </select>
+      <button id="applySort">Apply Sort</button>
+    </div>
+
+    <!-- List of artists -->
+    <div class="artist-list-container">
+      <h2>Artists</h2>
+      <ul id="artistList"></ul>
+    </div>
+
+    <!-- Favorite artists -->
+    <div class="favorites-container">
+      <h2>Favorites</h2>
+      <ul id="favoriteList"></ul>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
